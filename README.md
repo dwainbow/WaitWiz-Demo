@@ -18,6 +18,6 @@
 ## 🎥 See It in Action!
 
 Experience **Wait Wiz** firsthand with this exciting video demo:
-https://github.com/user-attachments/assets/902e4337-f467-47c7-b8b3-2cf51111f8d5
+[Watch the video](https://github.com/user-attachments/assets/902e4337-f467-47c7-b8b3-2cf51111f8d5)
 
 
