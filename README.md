@@ -10,14 +10,9 @@
 - ⏳ **Historical Insights**: See past trends and optimize your timing for the perfect experience.
 - 📊 **Beautiful Visuals**: Interactive charts that make wait times easy to understand at a glance.
 - 👌 **Intuitive Design**: Sleek, user-friendly interface that’s as simple as it is powerful.
-<p align="trailing">
-  <img src="https://github.com/user-attachments/assets/802f8652-79b7-4e14-bfec-bbbf44a298b3" width="35%" />
-  <img src="https://github.com/user-attachments/assets/2d5d82e1-01c3-4cbb-ad88-f6b2db9ccae1" width="35%" />
-</p>
 
 ## 🎥 See It in Action!
+https://github.com/user-attachments/assets/7112f23a-206f-4e45-93b6-431c94952d53
 
-Experience **Wait Wiz** firsthand with this exciting video demo:
-[Watch the video](https://github.com/user-attachments/assets/902e4337-f467-47c7-b8b3-2cf51111f8d5)
 
 
